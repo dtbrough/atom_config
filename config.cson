@@ -1,0 +1,11 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "metrics"
+      "exception-reporting"
+    ]
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  "linter-ui-default": {}
